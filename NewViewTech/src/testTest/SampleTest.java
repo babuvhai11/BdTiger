@@ -27,6 +27,7 @@ public class SampleTest {
 		String MN = Zahid.myName();
 		System.out.println(MN);
 		Zahid.funMethoid();
+		System.out.println("Print me too");
 		
 	}
 
@@ -50,6 +51,7 @@ public class SampleTest {
 		int kk = abc + jjj;
 		System.out.println("just print: " + bye);
 		System.out.println("just print: " + kk);
+		System.out.println("Git branch test");
 	}
 
 	public void paramiter(int a, int b) {
